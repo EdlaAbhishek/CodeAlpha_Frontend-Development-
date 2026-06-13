@@ -10,7 +10,7 @@
 - Hover effects and transitions
 
 
-![Image Gallery](CodeAlpha_Frontend-Development/Task1/Task1_Screenshot.jpg)
+![Image Gallery](Task1/Task1_Screenshot.jpg)
 
 
 ## 2. Calculator
@@ -22,7 +22,7 @@
 - Responsive UI
 
 
-![Calculator](CodeAlpha_Frontend-Development/Task2/Task2_Screenshot.jpg)
+![Calculator](Task2/Task2_Screenshot.jpg)
 
 
 ## 3. Music Player
@@ -37,7 +37,7 @@
 - Autoplay
 
 
-![Music Player](CodeAlpha_Frontend-Development/Task4/Task4_Screenshot.jpg)
+![Music Player](Task4/Task4_Screenshot.jpg)
 
 
 ## Technologies Used
