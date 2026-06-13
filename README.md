@@ -9,7 +9,7 @@
 - Image filtering by category
 - Hover effects and transitions
 
-![Image Gallery](Task1/Task1_Screenshot.jpg)
+![Image Gallery](CodeApha_Frontend-Development/Task1/Task1_Screenshot.jpg)
 
 ## 2. Calculator
 
